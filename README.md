@@ -1,1 +1,1 @@
-# R6_download_tool
+# Rainbow Six Siege Installation Manager
